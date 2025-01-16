@@ -105,8 +105,8 @@ Welcome to my GitHub profile! I'm Akhila S, an **Electrical and Electronics Engi
 
 ## 📞 Let's Connect!
 
-- 💼 [LinkedIn](www.linkedin.com/in/akhila-s-b9a63a255) 
-- 📧 [E-mail](mailto:2022ee0184@svce.ac.in)
+- 💼 (www.linkedin.com/in/akhila-s-b9a63a255)
+- 📧 (2022ee0184@svce.ac.in)
 
 ---
 
