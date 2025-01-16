@@ -99,7 +99,7 @@ Welcome to my GitHub profile! I'm Akhila S, an **Electrical and Electronics Engi
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akhila-s&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akhila\&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akhila-s&layout=compact&theme=radical)
 
